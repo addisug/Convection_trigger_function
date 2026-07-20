@@ -6,7 +6,7 @@ The existing convection trigger functions that are used in deep convection param
 This project aims to build off of the existing research on machine learning-based convection triggers. We use satellite-observed data from the TOOCAN GPM dataset along with global climate and weather data from ERA5 to train various machine learning classifiers. The goal is to compare the performance of these ML classifiers to that of existing trigger functions. We also use Explainable AI to explore the environmental variables that the models consider to be the most important for convection initiation.
 
 
-### Outline
+## Outline
 - Begin by exploring the TOOCAN GPM and ERA5 datasets.
     - `dataset_exploration.ipynb`
     - `toocan_era5_exploration.ipynb`
