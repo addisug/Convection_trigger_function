@@ -8,9 +8,9 @@ This project aims to build off of the existing research on machine learning-base
 
 ### Outline
 - Begin by exploring the TOOCAN GPM and ERA5 datasets.
-  -> `dataset_exploration.ipynb`
-  -> `toocan_era5_exploration.ipynb`
+    - `dataset_exploration.ipynb`
+    - `toocan_era5_exploration.ipynb`
 - Train simple Random Forest and Logistic Regression models on the data to predict convection onset from large-scale environmental variables.
-  -> `model_training.ipynb`
+    - `model_training.ipynb`
 - Train XGBoost and neural network models.
 - Evaluate offline against TOOCAN labels 
